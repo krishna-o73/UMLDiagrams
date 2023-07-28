@@ -2,18 +2,18 @@
 ## A Computer Aided Software Engineering Tools  Lab Project Report on GMAIL APPLICATION
 
 
-Submitted by                                                            
+### Submitted by                                                            
 S.NITEESH BHARADWAJ    
 P.VARSHITH 		       
 A.SHIVA RAMA KRISHNA   
 Y.M.KHASIM 		       
 P.SAI KRISHNA           
 
-Under the Guidance of                                             
+### Under the Guidance of                                             
 Dr. TALAKOTI MAMATHA, Associate Professor
 
 
-Department of Computer Science & Engineering
+### Department of Computer Science & Engineering
 SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY (AUTONOMOUS)
 Yamnampet(V), Ghatkesar(M), Hyderabad–501301,Telangana.
 2021-2025
@@ -21,7 +21,7 @@ Yamnampet(V), Ghatkesar(M), Hyderabad–501301,Telangana.
 
 
 
-CONTENTS                                      
+### CONTENTS                                      
 1	Introduction	                                                                                     
 1.1	Purpose	                               
 1.2	Scope	                                      

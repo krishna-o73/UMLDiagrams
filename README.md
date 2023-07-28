@@ -21,8 +21,7 @@ Yamnampet(V), Ghatkesar(M), Hyderabad–501301,Telangana.
 
 
 
-CONTENTS
-CHAPTER.NO	
+CONTENTS                                      
 1	Introduction	                                                                                     
 1.1	Purpose	                               
 1.2	Scope	                                      
@@ -40,9 +39,3 @@ CHAPTER.NO
 3.7	Deployment Diagram                                           
 4	Conclusion	                            
 5	References	                                     
-
-1.Introduction                                        
-1.1	Purpose                                                
-Signing in to your account When you first create your account, you will be automatically signed in. Most of the time, however, you’ll need to sign in to your account and sign out when you’re done with it. Signing out is especially important if you’re using a shared computer (for example, at a library or office) because it prevents others from viewing your emails. To sign in: 
-1. Go to www.gmail.com.
-2. Type your user name (your email address) and password, then click Next. To sign out: In the top-right corner of the page, locate the circle that has your first initial (if you’ve already selected an avatar image, it will show the image instead). To sign out, click the circle and select Sign out.

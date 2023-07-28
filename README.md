@@ -11,10 +11,8 @@ P.SAI KRISHNA
 
 ### Under the Guidance of                                             
 Dr. TALAKOTI MAMATHA, Associate Professor
-
-
-### Department of Computer Science & Engineering
-SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY (AUTONOMOUS)
+Department of Computer Science & Engineering
+### SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY (AUTONOMOUS)              
 Yamnampet(V), Ghatkesar(M), Hyderabad–501301,Telangana.
 2021-2025
 
